@@ -1,3 +1,6 @@
+# A memorial of this lovely character:
+![mojo jojo](https://vignette.wikia.nocookie.net/teen-titans-go/images/3/34/Mojo_Jojo.png/revision/latest?cb=20160704151135)
+
 # What is this ?
 We just developed a Telegram bot with this purpose:
 **Anonymous conversation with random people to improve your English skills**
