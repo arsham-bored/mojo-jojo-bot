@@ -2,13 +2,13 @@
 const telegram_api = require('node-telegram-bot-api')
 
 const token = "PAST_YOUR_TOKEN_RIGHT_HERE";
-const bot = new telegram_api(token /*, {
+const bot = new telegram_api(token , {
 
     // for some reason, Telegram forbidden in Iran, Russia and ...
     // here we is a sample to how use SOCK% proxy (like tor) to bypass this stuff
 
     polling: true,
-    request: {
+    /* request: {
         agentClass: Agent,
         agentOptions: {
             socksHost: '127.0.0.1',
@@ -17,8 +17,8 @@ const bot = new telegram_api(token /*, {
              socksUsername: '',
              socksPassword: ''
         }
-    } 
-}*/ );
+    }  */
+});
 
 
 module.exports = bot
