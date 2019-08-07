@@ -1,3 +1,9 @@
+# What is this ?
+We just developed a Telegram bot with this purpose:
+**Anonymous conversation with random people to improve your English skills**
+
+
+
 ### Run program
 first of all, you need TOKEN: [how to get a new token?](https://medium.com/shibinco/create-a-telegram-bot-using-botfather-and-get-the-api-token-900ba00e0f39)
 
