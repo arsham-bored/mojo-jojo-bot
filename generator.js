@@ -1,7 +1,7 @@
 //const Agent = require('socks5-https-client/lib/Agent')
 const telegram_api = require('node-telegram-bot-api')
 
-const token = "956250090:AAG3op0mNVRhY5OKQ7DJARvmafALmmq3N9w";
+const token = "PAST_YOUR_TOKEN_RIGHT_HERE";
 const bot = new telegram_api(token /*, {
 
     // for some reason, Telegram forbidden in Iran, Russia and ...
